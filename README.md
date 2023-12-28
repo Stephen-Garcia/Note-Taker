@@ -20,5 +20,6 @@ This application is covered by the Open license.
 ## Contribution-Guidelines
 Raise an issue on the GitHub repository to report issues
 ## Video/Images
+![Capture](https://github.com/Stephen-Garcia/Note-Taker/assets/92559337/76e39bfb-3818-4824-adb4-31fd44b9815d)
 ## Questions
 GitHub: https://github.com/Stephen-Garcia
